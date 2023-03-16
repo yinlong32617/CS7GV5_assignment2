@@ -1,0 +1,15 @@
+﻿  HierarchicalCreatures.cpp
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\camera.h(88,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(70,24): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(123,51): warning C4305: “参数”: 从“double”到“float”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(141,49): warning C4305: “参数”: 从“double”到“float”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(149,49): warning C4305: “参数”: 从“double”到“float”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(158,49): warning C4305: “参数”: 从“double”到“float”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(172,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(192,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(193,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(209,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(224,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(240,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\RealTimeAnimation\Assignment2\HierarchicalCreatures.cpp(286,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  assimp-demo.vcxproj -> D:\Programming Workplace\ComputerGraphics\realtime_animation_assignment2\Simple\Debug\assimp-demo.exe
